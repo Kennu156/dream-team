@@ -1,8 +1,13 @@
 <script setup>
+import ComingSoon from './ComingSoon.vue';
+import Info from './Info.vue';
+import Contact from './Contact.vue';
 
 </script>
 
 <template>
-    <h1 class="text-red-500">Primo Burger</h1>
-    <h6>COmingSoojn</h6>
+    <ComingSoon />
+    <Info />
+    <Contact />
+
 </template>
