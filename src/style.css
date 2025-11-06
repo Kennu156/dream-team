@@ -1,8 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Oswald:wght@200..700&display=swap');
 @import "tailwindcss";
 
+
 @layer base {
+
+
+  
   h1 {
     @apply text-4xl font-bold;
+    
+    
   }
   h2 {
     @apply text-3xl font-semibold;
@@ -13,4 +20,9 @@
   h4 {
     @apply text-xl font-medium;
   }
+  
+}
+
+@theme {
+  --font-oswald: "Oswald", sans-serif;
 }
