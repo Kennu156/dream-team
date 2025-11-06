@@ -11,3 +11,4 @@ import Contact from './Contact.vue';
     <Contact />
 
 </template>
+

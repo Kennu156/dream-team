@@ -3,7 +3,7 @@
 </script>
 
 <template>
-<section class="min-h-screen w-full bg-[url('src/assets/bg.jpg')] bg-cover bg-center flex items-center justify-center px-4 py-16">
+<section class="min-h-screen w-full bg-black bg-cover bg-center flex items-center justify-center px-4 py-16">
   
   <div class="max-w-5xl w-full text-center font-oswald bg-black/60 backdrop-blur-md p-8 sm:p-10 md:p-14 rounded-3xl shadow-2xl border border-[#F3C17A]/30">
     <h1 class="mt-2 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-medium tracking-wide text-[#F3C17A] leading-tight drop-shadow-[2px_2px_4px_#000]">
