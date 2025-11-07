@@ -1,5 +1,8 @@
 # 🍔 Burger Primo veebiäpp "coming soon"
 
+**LIVE LEHT** https://dream-team-gray.vercel.app/
+<br>
+**FIGMA** https://www.figma.com/design/ljPSp20g05VYxHiVmCM5Q4/Primo?node-id=0-1&p=f&t=nbxgSy9ZXUdVy7O3-0
 
 ## Projekti mõte
 
@@ -37,21 +40,24 @@ Projekt oli huvitav ja tiim värvikas. Kõigil on oma tugev külg, mis aitas lõ
 ---
 
 Ken-Martti Paju -
-...
+Sain enne praktikat väga hea ülevaate, kuidas teha tiimitööd ja milline see välja näeb. Tiim oli parim ja äge.
+<br>
+Ken-Martti on ilus
 
 ---
 
 Robby Šaukštelis -
-...
+Tiim oli lausa "Super-Luks", kõik nägid vaeva, olime kõik abivalmid. Õppisin tiimi juhendamist ja inimesi rohkem kuulama.
 
 ---
 
 Taaniel Tiidussalu -
-...
+Õppisin ennast paremini väljendama, jagama juhiseid ja isegi avastasin koodi kirjutamisel ühtteist mida varem ei teadnud. Meeskond tegi ilusti tööd. 
+Kõik olid abivalmis. Kuulasid ja küsisid kui oli abi vaja. Oli meeldiv ja au tiimi juhendada
 
 ---
 
-Carlos Leon Mikson - Disainisin osa veebiäppi figmas, koostasin selle osa samuti vue ja tailwindiga.
+Carlos Leon Mikson - Disainisin osa lehest figmas, koostasin selle osa samuti vue ja tailwindiga.
 Meeskond oli meeldiv, koostööd nõus tegema ja lihtne rääkida üksteisega.
 ...
 
