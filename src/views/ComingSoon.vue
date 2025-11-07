@@ -2,7 +2,7 @@
 import { ref, onMounted, onUnmounted } from 'vue'
 
 
-const targetDate = new Date('2025-12-24T14:00:00')
+const targetDate = new Date('2026-04-24T14:00:00')
 
 const countdown = ref({
   days: 0,
