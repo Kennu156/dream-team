@@ -2,65 +2,71 @@
 </script>
 
 <template>
-<section class="flex flex-col items-center justify-center min-h-screen w-full bg-[url('/src/assets/image5.webp')] bg-cover bg-center font-oswald px-4 py-12">
-  <form
-    action="https://formspree.io/f/xzzknqlo" 
-    method="POST"
-    class="bg-black/70 backdrop-blur-md border border-[#F3C17A]/40 rounded-2xl shadow-[0_0_25px_rgba(243,193,122,0.2)] p-6 sm:p-8 md:p-10 w-full max-w-md flex flex-col gap-6 text-[#F3C17A]"
-  >
-    <h2 class="text-center text-2xl sm:text-3xl font-semibold mb-2">Registreeru ette</h2>
-
-    <div class="flex flex-col gap-2">
-      <label for="name" class="text-[#F3C17A]/90">Nimi</label>
-      <input
-        id="name"
-        name="name"
-        type="text"
-        placeholder="Täisnimi"
-        required
-        class="bg-[#2C2C2C]/80 text-[#F3C17A] placeholder-[#F3C17A]/50 rounded-lg p-2 border border-[#F3C17A]/50 focus:border-[#F3C17A] focus:ring-2 focus:ring-[#F3C17A]/40 outline-none transition-all duration-300"
-      />
-    </div>
-
-    <div class="flex flex-col gap-2">
-      <label for="email" class="text-[#F3C17A]/90">Email</label>
-      <input
-        id="email"
-        name="email"
-        type="email"
-        placeholder="misiganes@gmail.com"
-        required
-        class="bg-[#2C2C2C]/80 text-[#F3C17A] placeholder-[#F3C17A]/50 rounded-lg p-2 border border-[#F3C17A]/50 focus:border-[#F3C17A] focus:ring-2 focus:ring-[#F3C17A]/40 outline-none transition-all duration-300"
-      />
-    </div>
-
-    <div class="flex flex-col gap-2">
-      <label for="phone" class="text-[#F3C17A]/90">Telefon</label>
-      <input
-        id="phone"
-        name="phone"
-        type="tel"
-        placeholder="+372"
-        class="bg-[#2C2C2C]/80 text-[#F3C17A] placeholder-[#F3C17A]/50 rounded-lg p-2 border border-[#F3C17A]/50 focus:border-[#F3C17A] focus:ring-2 focus:ring-[#F3C17A]/40 outline-none transition-all duration-300"
-      />
-    </div>
-
-    <button
-      type="submit"
-      class="mt-2 bg-gradient-to-r from-[#F3C17A] to-orange-500 text-black font-semibold rounded-lg py-2 transition-transform duration-300 hover:cursor-pointer hover:scale-105 hover:shadow-[0_0_20px_rgba(243,193,122,0.4)]"
+<section class="relative flex flex-col items-center justify-center min-h-screen w-full font-oswald px-4 py-12 overflow-hidden">
+  <!-- Blurred background layer -->
+  <div class="absolute inset-0 -inset-4 bg-[url('/src/assets/image5.webp')] bg-cover bg-center blur-sm scale-110"></div>
+  
+  <!-- Content layer (not blurred) -->
+  <div class="relative z-10 flex flex-col items-center w-full">
+    <form
+      action="https://formspree.io/f/xzzknqlo" 
+      method="POST"
+      class="bg-black/70 backdrop-blur-md border border-[#F3C17A]/40 rounded-2xl shadow-[0_0_25px_rgba(243,193,122,0.2)] p-6 sm:p-8 md:p-10 w-full max-w-md flex flex-col gap-6 text-[#F3C17A]"
     >
-      Sisesta
-    </button>
-  </form>
+      <h2 class="text-center text-2xl sm:text-3xl font-semibold mb-2">Registreeru ette</h2>
 
-  <div class="flex flex-col items-center text-center pt-12 px-4 max-w-2xl">
-    <h1 class="text-2xl sm:text-3xl text-[#F3C17A] font-semibold mb-4">
-      Miks ette registreerida?
-    </h1>
-    <h2 class="text-lg sm:text-xl text-[#F3C17A]/90 leading-relaxed">
-      Meile ette registreeritud kliendid saavad enda esimesel tellimusel
-      <span class="text-orange-400 font-semibold">tasuta kaasa joogi.</span>
-    </h2>
+      <div class="flex flex-col gap-2">
+        <label for="name" class="text-[#F3C17A]/90">Nimi</label>
+        <input
+          id="name"
+          name="name"
+          type="text"
+          placeholder="Täisnimi"
+          required
+          class="bg-[#2C2C2C]/80 text-[#F3C17A] placeholder-[#F3C17A]/50 rounded-lg p-2 border border-[#F3C17A]/50 focus:border-[#F3C17A] focus:ring-2 focus:ring-[#F3C17A]/40 outline-none transition-all duration-300"
+        />
+      </div>
+
+      <div class="flex flex-col gap-2">
+        <label for="email" class="text-[#F3C17A]/90">Email</label>
+        <input
+          id="email"
+          name="email"
+          type="email"
+          placeholder="misiganes@gmail.com"
+          required
+          class="bg-[#2C2C2C]/80 text-[#F3C17A] placeholder-[#F3C17A]/50 rounded-lg p-2 border border-[#F3C17A]/50 focus:border-[#F3C17A] focus:ring-2 focus:ring-[#F3C17A]/40 outline-none transition-all duration-300"
+        />
+      </div>
+
+      <div class="flex flex-col gap-2">
+        <label for="phone" class="text-[#F3C17A]/90">Telefon</label>
+        <input
+          id="phone"
+          name="phone"
+          type="tel"
+          placeholder="+372"
+          class="bg-[#2C2C2C]/80 text-[#F3C17A] placeholder-[#F3C17A]/50 rounded-lg p-2 border border-[#F3C17A]/50 focus:border-[#F3C17A] focus:ring-2 focus:ring-[#F3C17A]/40 outline-none transition-all duration-300"
+        />
+      </div>
+
+      <button
+        type="submit"
+        class="mt-2 bg-gradient-to-r from-[#F3C17A] to-orange-500 text-black font-semibold rounded-lg py-2 transition-transform duration-300 hover:cursor-pointer hover:scale-105 hover:shadow-[0_0_20px_rgba(243,193,122,0.4)]"
+      >
+        Sisesta
+      </button>
+    </form>
+
+    <div class="flex flex-col items-center text-center pt-12 px-4 max-w-2xl">
+      <h1 class="text-2xl sm:text-3xl text-[#F3C17A] font-semibold mb-4">
+        Miks ette registreerida?
+      </h1>
+      <h2 class="text-lg sm:text-xl text-[#F3C17A]/90 leading-relaxed">
+        Meile ette registreeritud kliendid saavad enda esimesel tellimusel
+        <span class="text-orange-400 font-semibold">tasuta kaasa joogi.</span>
+      </h2>
+    </div>
   </div>
 </section>
 </template>
