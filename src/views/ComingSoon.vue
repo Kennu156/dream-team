@@ -41,7 +41,7 @@ onUnmounted(() => clearInterval(interval))
 
 <template>
 <section class="relative h-screen w-full font-oswald font-medium overflow-hidden flex flex-col bg-cover bg-center">
-  <div class="absolute inset-0 bg-[url('public/images/bg.jpg')] bg-cover bg-center blur-sm scale-105"></div>
+  <div class="absolute inset-0 bg-[url('/src/assets/bg.webp')] bg-cover bg-center blur-sm scale-105"></div>
 
   <div class="relative flex flex-col items-center justify-center flex-grow text-center px-4">
 
