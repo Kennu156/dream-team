@@ -40,7 +40,9 @@ Projekt oli huvitav ja tiim värvikas. Kõigil on oma tugev külg, mis aitas lõ
 ---
 
 Ken-Martti Paju -
-...
+Sain enne praktikat väga hea ülevaate, kuidas teha tiimitööd ja milline see välja näeb. Tiim oli parim ja äge.
+<br>
+Ken-Martti on ilus
 
 ---
 
