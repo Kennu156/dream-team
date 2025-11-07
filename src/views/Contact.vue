@@ -2,7 +2,7 @@
 </script>
 
 <template>
-<section class="flex flex-col items-center justify-center min-h-screen w-full bg-[url('public/images/image5.jpg')] bg-cover bg-center font-oswald px-4 py-12">
+<section class="flex flex-col items-center justify-center min-h-screen w-full bg-[url('public/images/image5.png')] bg-cover bg-center font-oswald px-4 py-12">
   <form
     action="https://formspree.io/f/xzzknqlo" 
     method="POST"
