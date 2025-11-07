@@ -24,7 +24,7 @@ Monteerisime video ja heli kokku.
 
 **Kolmas päev – 7. november 2025**
 Lõpetasime projekti tehnilise osa ning jagasime projekti kohta tagasisidet.
-Korrigeerisime reklaamvideot.
+Korrigeerisime reklaamvideot. Lisasime reklaamvideo veebilehele ning korrigeerisime piltide mahtu.
 
 --- 
 
@@ -35,29 +35,25 @@ Marko Põlluäär -
 
 ---
 
-Ken-Martti Paju
-...
-
---
-
-Robby Šaukštelis
+Ken-Martti Paju -
 ...
 
 ---
 
-Taaniel Tiidussalu
+Robby Šaukštelis -
 ...
 
 ---
 
-Carlos Leon Mikson
+Taaniel Tiidussalu -
 ...
 
 ---
 
-Robin Vaikla
+Carlos Leon Mikson -
 ...
 
+---
 
-Lisasime reklaamvideo veebilehele ning korrigeerisime piltide mahtu.
-
+Robin Vaikla -
+...
