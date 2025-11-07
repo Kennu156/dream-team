@@ -24,14 +24,15 @@ Monteerisime video ja heli kokku.
 
 **Kolmas päev – 7. november 2025**
 Lõpetasime projekti tehnilise osa ning jagasime projekti kohta tagasisidet.
-Korrigeerisime reklaamvideot. Lisasime reklaamvideo veebilehele ning korrigeerisime piltide mahtu.
+Korrigeerisime reklaamvideot. Lisasime reklaamvideo veebilehele ning optimeerisime piltide mahtu.
 
 --- 
 
 ## Tagasiside
 
-Marko Põlluäär -
-...
+Marko Põlluäär - Varem ei olnud mul kokkupuudet Vue ega Tailwindiga. Figma kogemus oli samuti üsna vähene ja ammune. 
+Projekti käigus sain nendega esimese praktilise kogemuse ja tekkis selge arusaam, et edaspidi tasub eelistada Tailwindi tavalisele CSS-ile. 
+Projekt oli huvitav ja tiim värvikas. Kõigil on oma tugev külg, mis aitas lõpptulemuse kokku panna.
 
 ---
 
