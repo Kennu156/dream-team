@@ -9,7 +9,7 @@ Luua projektile **Burger Primo veebiäpp** "coming soon" veebileht, mis promoks 
 
 ## 📅 Projekti staatus
 
-**Esimene päev – 5. november 2025**  
+**Esimene päev – 5. november 2025**
 Täna valmis projekti esmane kujundus **Figma** keskkonnas.  
 Järgmiseks sammuks on rakenduse tehniline struktuur ja esmane prototüüp.
 
