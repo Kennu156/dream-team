@@ -55,7 +55,7 @@ Kõik olid abivalmis. Kuulasid ja küsisid kui oli abi vaja. Oli meeldiv ja au t
 
 ---
 
-Carlos Leon Mikson - Disainisin osa veebiäppi figmas, koostasin selle osa samuti vue ja tailwindiga.
+Carlos Leon Mikson - Disainisin osa lehest figmas, koostasin selle osa samuti vue ja tailwindiga.
 Meeskond oli meeldiv, koostööd nõus tegema ja lihtne rääkida üksteisega.
 ...
 
