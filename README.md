@@ -1,5 +1,7 @@
 # 🍔 Burger Primo veebiäpp "coming soon"
 
+**LIVE LEHT** https://dream-team-gray.vercel.app/
+**FIGMA** https://www.figma.com/design/ljPSp20g05VYxHiVmCM5Q4/Primo?node-id=0-1&p=f&t=nbxgSy9ZXUdVy7O3-0
 
 ## Projekti mõte
 
@@ -42,12 +44,13 @@ Ken-Martti Paju -
 ---
 
 Robby Šaukštelis -
-...
+Tiim oli lausa "Super-Luks", kõik nägid vaeva, olime kõik abivalmid. Õppisin tiimi juhendamist ja inimesi rohkem kuulama.
 
 ---
 
 Taaniel Tiidussalu -
-...
+Õppisin ennast paremini väljendama, jagama juhiseid ja isegi avastasin koodi kirjutamisel ühtteist mida varem ei teadnud. Meeskond tegi ilusti tööd. 
+Kõik olid abivalmis. Kuulasid ja küsisid kui oli abi vaja. Oli meeldiv ja au tiimi juhendada
 
 ---
 
