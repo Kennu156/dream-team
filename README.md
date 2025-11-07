@@ -51,7 +51,8 @@ Taaniel Tiidussalu -
 
 ---
 
-Carlos Leon Mikson -
+Carlos Leon Mikson - Disainisin osa veebiäppi figmas, koostasin selle osa samuti vue ja tailwindiga.
+Meeskond oli meeldiv, koostööd nõus tegema ja lihtne rääkida üksteisega.
 ...
 
 ---
