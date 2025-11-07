@@ -56,5 +56,7 @@ Carlos Leon Mikson -
 
 ---
 
-Robin Vaikla - Disainisin esilehe ja kirjutasin koodi selle jaoks. Sain kogemust CSS'iga kui ka üldise programmeerimisega. Mul oli hea aeg, kõik olid abivalmis ning kolmas kursus juhendas meid väga hästi.
+Robin Vaikla - Disainisin esilehe ja kirjutasin koodi selle jaoks.
+Sain kogemust Figmaga, Tailwindiga kui ka üldise programmeerimisega.
+Mul oli hea aeg, kõik olid abivalmis ning kolmas kursus juhendas meid väga hästi.
 ...
