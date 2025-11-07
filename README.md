@@ -16,6 +16,7 @@ Järgmiseks sammuks on rakenduse tehniline struktuur ja esmane prototüüp.
 ---
 
 **Teie päev – 6. november 2025**
+
 Täna lõpetasime **Figma** keskkonnas kujunduse ning asusime tehnilist struktuuri 
 ja esmast prototüüpi arendama. Lindistasime reklaamvideole voice-over hääle ning filmisime reklaamvideo.
 Monteerisime video ja heli kokku.
@@ -23,6 +24,7 @@ Monteerisime video ja heli kokku.
 ---
 
 **Kolmas päev – 7. november 2025**
+
 Lõpetasime projekti tehnilise osa ning jagasime projekti kohta tagasisidet.
 Korrigeerisime reklaamvideot.
 Lisasime reklaamvideo veebilehele ning korrigeerisime piltide mahtu.
