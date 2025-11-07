@@ -52,7 +52,7 @@ onUnmounted(() => clearInterval(interval))
     </h2>
 
     <h3 class="text-2xl sm:text-3xl md:text-5xl pt-4 text-[#F3C17A] flex flex-col gap-4 items-center">
-      VEEBIÄPPI AVAME
+      VEEBIÄPI AVAME
       <div class="flex gap-4 text-3xl sm:text-4xl md:text-5xl font-semibold">
         <div class="flex flex-col items-center">
           <span>{{ countdown.days }}</span>
