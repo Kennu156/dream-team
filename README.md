@@ -3,7 +3,7 @@
 
 ## Projekti mõte
 
-**Luua projektile **Burger Primo veebiäpp** "coming soon" veebileht, mis promoks väljatulevat lehte, kirjeldaks lehel olevat sisu ja ärataks rahvas uudishimu.
+Luua projektile **Burger Primo veebiäpp** "coming soon" veebileht, mis promoks väljatulevat lehte, kirjeldaks lehel olevat sisu ja ärataks rahvas uudishimu.
 
 ---
 
